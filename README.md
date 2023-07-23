@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Motasim Emad</h1>
+<h1 align="right">Hi 👋, I'm Motasim Emad</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" />
 
 - 🔭 I’m currently working on [Lootahbiofuels](https://lootahbiofuels.com)
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **motasimmax@gmail.com**
 
-- ⚡ Fun fact **Complexity is always the enemy**
+- ⚡ Complexity is always the enemy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
