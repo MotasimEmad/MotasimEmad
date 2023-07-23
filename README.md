@@ -1,4 +1,4 @@
-<h1 align="right">Hi 👋, I'm Motasim Emad</h1>
+<h1 align="left">Hi 👋, I'm Motasim Emad</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" />
 
 - 🔭 I’m currently working on [Lootahbiofuels](https://lootahbiofuels.com)
