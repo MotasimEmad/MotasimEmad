@@ -1,44 +1,33 @@
-<h1 align="center">Hi 👋, I'm Motasim Emad</h1>
-<p align="center">
-  <em>Backend Developer | Laravel • NestJS • PHP | Learning .NET</em>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding animation"/>
-</p>
+# Motasim Emad
 
----
+`backend dev` · Laravel · NestJS · PHP · learning .NET
 
-## 🔥 About Me
-- 🧰 I work with **Laravel**, **NestJS**, **PHP**, and **React**
-- 🌱 Currently learning **.NET** to level up my backend expertise
-- 📫 Reach me at **motasimmax@gmail.com**
-- ⚡ *“Complexity is always the enemy.”*
+</div>
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/motasim-emad-8b4901192/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-  </a>
-</p>
+> *"Complexity is always the enemy."*
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nestjs,dotnet,nodejs" />
-</p>
+Backend developer focused on building clean, maintainable server-side systems. Currently expanding into **.NET** to deepen my backend expertise.
 
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap,tailwind" />
-</p>
+- **Email:** motasimmax@gmail.com
+- **LinkedIn:** [motasim-emad](https://www.linkedin.com/in/motasim-emad-8b4901192/)
 
-### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,mysql" />
-</p>
+---
+
+## Tech Stack
+
+**Backend**
+`PHP` `Laravel` `NestJS` `.NET` `Node.js`
+
+**Frontend**
+`React` `JavaScript` `HTML` `CSS` `Bootstrap` `Tailwind`
+
+**Tools**
+`Git` `GitHub` `Postman` `MySQL`
